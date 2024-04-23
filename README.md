@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Maxyn Edogha O. @DaiMika
 - 👀 I’m interested in learning... No Knowledge is a waste
+- I studied Computer Science in Houdegbe North American University
 - 🌱 I’m currently learning Software Engineering
 - 
 - 📫 You can reach me on maxdietunnie@gmail.com
