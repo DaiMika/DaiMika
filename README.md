@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Maxyn @DaiMika
+- 👋 Hi, I’m Maxyn Edogha O. @DaiMika
 - 👀 I’m interested in learning... No Knowledge is a waste
 - 🌱 I’m currently learning Software Engineering
 - 
